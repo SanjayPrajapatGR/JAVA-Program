@@ -15,7 +15,7 @@ class addition
 		q=a;
 		w=b;
 		float e=q+w;
-		System.out.println("Addition of two integer number is:"+e);
+		System.out.println("Addition of two float number is:"+e);
 	}
 }
 class addition_of_two_number_using_method_overloding
