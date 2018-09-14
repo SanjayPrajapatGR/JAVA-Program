@@ -1,0 +1,9 @@
+package Date;
+import java.util.*;
+	public class System_Date
+	{   
+	    public void get_date(){
+		Date d = new Date();
+		System.out.println(d);
+		}
+	}
